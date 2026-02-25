@@ -137,7 +137,7 @@ console.log("SESSION DOWNLOADED SUCCESSFULLY ✅")
   require("./plugins/" + plugin);
   }
   });
-  conn.newsletterFollow("120363405251820771@newsletter")
+  conn.newsletterFollow("120363406014910137@newsletter")
     
   let up = `
 ╭─ 「 *[ •  𝗠𝗔𝗡𝗜𝗜-𝟬𝟱-𝗠𝗗-𝗦𝗧𝗔𝗥𝗧𝗘𝗗 ‎ • ]* 」
@@ -148,7 +148,7 @@ console.log("SESSION DOWNLOADED SUCCESSFULLY ✅")
 
 ╭─ 「 *[ •  𝗠𝗔𝗡𝗜𝗜-𝟬𝟱-𝗠𝗗-𝗥𝗘𝗣𝗢  • ]* 」
 ┊  ╭───────────❂
-┊📄┊ *🂱 https://github.com/DARKSILENCE04/DARK-SILENCE-MD*
+┊📄┊ *🂱 https://github.com/LEGENDMANII05/MANII-05-MD*
 ┊  ╰──────────❂
 ╰─────────────❂
 *🂱 𝗠𝗔𝗡𝗜-𝟬𝟱-𝗠𝗗-𝗦𝗧𝗔𝗥𝗧𝗘𝗗!♻️*\n\n*𝗬𝗢𝗨𝗥-𝗣𝗥𝗘𝗙𝗜𝗫: [${prefix}]*
@@ -176,7 +176,7 @@ conn.sendMessage(conn.user.id,{
       title: '𝗠𝗔𝗡𝗜𝗜-𝟬𝟱-𝗠𝗗࿐',
       body: '𝗠𝗔𝗡𝗜𝗜𝟬𝟱',
       mediaType: 1,
-      sourceUrl: "https://github.com/DARKSILENCE04/DARK-SILENCE-MD",
+      sourceUrl: "https://github.com/LEGENDMANII05/MANII-05-MD",
       thumbnailUrl: "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
       renderLargerThumbnail: true,
       showAdAttribution: false
