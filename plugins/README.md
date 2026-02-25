@@ -1,0 +1,9 @@
+-----------
+
+***WELCOME TO MANI05-MD PLUGINS LIST CREATED BY MANII05***
+
+-----------
+
+***THE WORLD BEST WHATSAPP BOT***
+
+----------
